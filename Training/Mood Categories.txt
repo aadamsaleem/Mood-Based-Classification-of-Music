@@ -1,0 +1,18 @@
+g01 - calm, comfort, quiet, serene, mellow, chill out, calm down, calming, chillout, comforting, content, cool down, mellow music, mellow rock, peace of mind, quietness, relaxation, serenity, solace, soothe, soothing, still, tranquil, tranquility, tranquility
+g02 - sad, sadness, unhappy, melancholic, melancholy, feeling sad, mood: sad - slightly, sad song
+g03 - happy, happiness, happy songs, happy music, glad, mood: happy
+g04 - romantic, romantic music
+g05 - upbeat, gleeful, high spirits, zest, enthusiastic, buoyancy, elation, mood: upbeat
+g06 - depressed, blue, dark, depressive, dreary, gloom, darkness, depress, depression, depressing, gloomy
+g07 - anger, angry, choleric, fury, outraged, rage, angry music
+g08 - grief, heartbreak, mournful, sorrow, sorry, doleful, heartache, heartbreaking, heartsick, lachrymose, mourning, plaintive, regret, sorrowful
+g09 - dreamy
+g10 - cheerful, cheer up, festive, jolly, jovial, merry, cheer, cheering, cheery, get happy, rejoice, songs that are cheerful, sunny
+g11 - brooding, contemplative, meditative, reflective, broody, pensive, pondering, wistful
+g12 - aggression, aggressive
+g13 - angst, anxiety, anxious, jumpy, nervous, angsty
+g14 - confident, encouraging, encouragement, optimism, optimistic
+g15 - desire, hope, hopeful, mood: hopeful
+g16 - earnest, heartfelt
+g17 - pessimism, cynical, pessimistic, weltschmerz, cynical/sarcastic
+g18 - excitement, exciting, exhilarating, thrill, ardour, stimulating, thrilling, titillating
